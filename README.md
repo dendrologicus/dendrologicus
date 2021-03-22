@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dendrologicus
 - 👀 I’m interested in plant-microbes interactions
 - 🌱 I’m currently and will alwayse be learning R
-- 💞️ I’m looking to collaborate on whatever live brings
+- 💞️ I’m looking to collaborate on whatever life brings
 - 📫 How to reach me: lukas.wille at gmail
 
 <!---
